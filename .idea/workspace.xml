@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07919695-c9f8-4b3b-9b7d-63eed2529a0c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1URT5oojRBO4AVj5K6af9nHTuWB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="NBP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07919695-c9f8-4b3b-9b7d-63eed2529a0c" name="Default Changelist" comment="" />
+      <created>1575318227541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575318227541</updated>
+      <workItem from="1575318232142" duration="1725000" />
+      <workItem from="1575319995233" duration="367000" />
+      <workItem from="1575397337397" duration="1688000" />
+      <workItem from="1575399057631" duration="2008000" />
+      <workItem from="1575401357813" duration="1793000" />
+      <workItem from="1575481674253" duration="1774000" />
+      <workItem from="1575483482726" duration="1778000" />
+      <workItem from="1575485294105" duration="1153000" />
+      <workItem from="1575571715125" duration="1768000" />
+      <workItem from="1575573520586" duration="1396000" />
+      <workItem from="1575575334940" duration="529000" />
+      <workItem from="1575709356206" duration="186000" />
+      <workItem from="1576093762997" duration="796000" />
+      <workItem from="1576094596643" duration="1777000" />
+      <workItem from="1576096413328" duration="2294000" />
+      <workItem from="1576098754967" duration="1775000" />
+      <workItem from="1576100570793" duration="167000" />
+      <workItem from="1576271723989" duration="19000" />
+      <workItem from="1576310190777" duration="1664000" />
+      <workItem from="1576311991874" duration="600000" />
+      <workItem from="1576313828254" duration="334000" />
+      <workItem from="1576324584167" duration="922000" />
+      <workItem from="1576326223588" duration="34000" />
+      <workItem from="1576401482780" duration="8000" />
+      <workItem from="1576862522654" duration="1715000" />
+      <workItem from="1576864273638" duration="1780000" />
+      <workItem from="1576866088015" duration="1777000" />
+      <workItem from="1576867902541" duration="793000" />
+      <workItem from="1576940553358" duration="785000" />
+      <workItem from="1576942901626" duration="1777000" />
+      <workItem from="1576944706709" duration="1782000" />
+      <workItem from="1576946518907" duration="1784000" />
+      <workItem from="1576948350069" duration="925000" />
+      <workItem from="1577187227862" duration="179000" />
+      <workItem from="1577195459598" duration="193000" />
+      <workItem from="1577528577895" duration="101000" />
+      <workItem from="1577556036089" duration="14000" />
+      <workItem from="1578136562226" duration="8000" />
+      <workItem from="1578138380313" duration="1683000" />
+      <workItem from="1578140096463" duration="1000" />
+      <workItem from="1578152199246" duration="77000" />
+      <workItem from="1578230442117" duration="132000" />
+      <workItem from="1578605781695" duration="20000" />
+      <workItem from="1578605923731" duration="10000" />
+      <workItem from="1584519116624" duration="1755000" />
+      <workItem from="1584520905903" duration="602000" />
+      <workItem from="1584610193958" duration="482000" />
+      <workItem from="1584611357468" duration="15000" />
+      <workItem from="1584611884420" duration="604000" />
+      <workItem from="1584612998841" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
